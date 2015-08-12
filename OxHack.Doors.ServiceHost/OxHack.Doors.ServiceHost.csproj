@@ -61,7 +61,7 @@
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="Paxton.Net2.OEMClientLibrary, Version=5.3.0.0, Culture=neutral, PublicKeyToken=d6bad0497ee6d215, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\..\..\Program Files\Reference Assemblies\Paxton Access\Paxton.Net2.OEMClientLibrary.dll</HintPath>
+      <HintPath>..\3rd Party Libraries\Paxton.Net2.OEMClientLibrary.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
