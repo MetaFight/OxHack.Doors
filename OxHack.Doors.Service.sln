@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OxHack.Doors.ServiceHost", "OxHack.Doors.ServiceHost\OxHack.Doors.ServiceHost.csproj", "{B1CF0784-8A0A-4F0B-8935-691A70F801DE}"
 EndProject
@@ -16,6 +16,11 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{4D6685D4-491D-474A-A1BC-9AB022503ECD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OxHack.Doors.Net2Interop.Tests", "OxHack.Doors.Net2Interop.Tests\OxHack.Doors.Net2Interop.Tests.csproj", "{3E08B806-CC44-4BAE-B7C5-D1466875A072}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Continuous Integration", "Continuous Integration", "{34EBE345-AEBD-4E38-9E88-0388CB73FF12}"
+	ProjectSection(SolutionItems) = preProject
+		.travis.yml = .travis.yml
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
