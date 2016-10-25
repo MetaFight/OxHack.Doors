@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.25618.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OxHack.Doors.ServiceHost", "OxHack.Doors.ServiceHost\OxHack.Doors.ServiceHost.csproj", "{B1CF0784-8A0A-4F0B-8935-691A70F801DE}"
 EndProject
@@ -37,7 +37,6 @@ Global
 		{810AB699-A112-4915-8FE9-21183739E770}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{810AB699-A112-4915-8FE9-21183739E770}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F2F76065-53FE-4DBA-BF9A-C372479B516A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F2F76065-53FE-4DBA-BF9A-C372479B516A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2F76065-53FE-4DBA-BF9A-C372479B516A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2F76065-53FE-4DBA-BF9A-C372479B516A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B18ECD27-808D-42B0-B37B-39E3509887D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -49,7 +48,6 @@ Global
 		{A2DC388E-2D5C-485F-893F-E0A6D452BC95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2DC388E-2D5C-485F-893F-E0A6D452BC95}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3E08B806-CC44-4BAE-B7C5-D1466875A072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3E08B806-CC44-4BAE-B7C5-D1466875A072}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E08B806-CC44-4BAE-B7C5-D1466875A072}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E08B806-CC44-4BAE-B7C5-D1466875A072}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
